@@ -1,0 +1,12 @@
+language: python
+
+python:
+  - "3.9"
+env:
+  - SECRET_KEY='TEST'
+services:
+  - postgresql
+install:
+  - pip install -r requirements.txt
+script:
+  - python manage.py test
