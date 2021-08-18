@@ -1,7 +1,5 @@
 from django.db import models
-from django.contrib import auth
 from django.utils import timezone
-from django.core.mail import send_mail
 from django.utils.translation import gettext_lazy as _
 from django.contrib.auth.models import Group as BaseGroup
 from django.contrib.auth.models import AbstractBaseUser, BaseUserManager, PermissionsMixin
