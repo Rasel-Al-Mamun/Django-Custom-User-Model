@@ -1,6 +1,6 @@
 # Django-Custom-User-Model
 
-[![Build Status](https://travis-ci.com/Rasel-Al-Mamun/Django-Custom-User-Model.svg?branch=main)](https://travis-ci.com/Rasel-Al-Mamun/Django-Custom-User-Model)  [![codecov](https://codecov.io/gh/Rasel-Al-Mamun/Django-Custom-User-Model/branch/main/graph/badge.svg?token=EKHV8V17CH)](https://codecov.io/gh/Rasel-Al-Mamun/Django-Custom-User-Model)
+[![Build Status](https://travis-ci.com/Rasel-Al-Mamun/Django-Custom-User-Model.svg?branch=main)](https://travis-ci.com/Rasel-Al-Mamun/Django-Custom-User-Model) [![codecov](https://codecov.io/gh/Rasel-Al-Mamun/Django-Custom-User-Model/branch/main/graph/badge.svg?token=EKHV8V17CH)](https://codecov.io/gh/Rasel-Al-Mamun/Django-Custom-User-Model)
 
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
